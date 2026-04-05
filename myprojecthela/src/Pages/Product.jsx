@@ -5,8 +5,8 @@ export default function Product() {
 
   return (
     <div className="p-10">
-      <h1 className="text-3xl">Product {id}</h1>
-      <p>Product details coming soon...</p>
+      <h1 className="text-3xl font-bold">Product {id}</h1>
+      <p>Details coming soon...</p>
     </div>
   );
 }
